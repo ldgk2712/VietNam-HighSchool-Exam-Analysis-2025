@@ -102,8 +102,7 @@ Here is a summary of the key findings (refer to the notebook for detailed code):
 ├── images/                         # Generated charts (Histogram, Map, Heatmap)
 ├── datasets/                       # Raw CSV files (2022-2025)
 ├── PhanTichDiemThiTHPTQG2025.ipynb # Main Analysis Notebook
-├── README.md                       # Project Documentation
-└── requirements.txt                # Dependencies
+└── README.md                       # Project Documentation
 ```
 
 ---
